@@ -3,7 +3,7 @@ h1 {
 
 body {
     text-align: center;
-  background-color: blueviolet;  
+ background: linear-gradient(#ff0066 10%, #ff9900 90%);  
     
     
 }
